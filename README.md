@@ -19,11 +19,11 @@ Be sure Übersicht is running on Mac and Startup option is checked along with lo
 
    **On MacOS:**
        
-       1. **Install XCode Command Line Tools.** In terminal, run: xcode-select --install
+       1. Install XCode Command Line Tools. In terminal, run: xcode-select --install
        
-       2. **Install Homebrew.** In terminal, run: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+       2. Install Homebrew. In terminal, run: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
        
-       3. Next, **add Homebrew to your PATH.** 
+       3. Next, add Homebrew to your PATH. 
        
            a. for Zsh, open terminal, run: 
            
@@ -35,9 +35,9 @@ Be sure Übersicht is running on Mac and Startup option is checked along with lo
                echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ~/.bash_profile
                source ~/.bash_profile
                
-       4. Then **Install Neofetch.** In terminal, run: brew install neofetch
+       4. Then Install Neofetch. In terminal, run: brew install neofetch
        
-       5. Finally, lets **install AHA.** In terminal, run: brew install aha
+       5. Finally, lets install AHA. In terminal, run: brew install aha
 
 ### Download Übersicht
 Download the latest version of Übersicht (https://tracesof.net/uebersicht/releases/Uebersicht-1.6.82.app.zip)
