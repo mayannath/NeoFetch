@@ -39,5 +39,8 @@ Be sure Übersicht is running on Mac and Startup option is checked along with lo
        
        5. Finally, lets install AHA. In terminal, run: brew install aha
 
+### Screenshot
+![NeoFetch Widget](Neofetch.png "Screenshot of NeoFetch Widget")
+
 ### Download Übersicht
 Download the latest version of Übersicht (https://tracesof.net/uebersicht/releases/Uebersicht-1.6.82.app.zip)
