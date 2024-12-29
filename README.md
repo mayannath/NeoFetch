@@ -18,6 +18,7 @@ Need the following pre-requisites to run this without any friction
 Be sure Übersicht is running on Mac and Startup option is checked along with location of the Widgets folder (local) identified, and Enable Interaction is checked.
 
    **On MacOS:**
+       
        1. **Install XCode Command Line Tools.** In terminal, run: xcode-select --install
        
        2. **Install Homebrew.** In terminal, run: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
