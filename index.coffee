@@ -1,5 +1,5 @@
 # Best used with Übersicht ==> http://tracesof.net/uebersicht/
-# Built by Mayan Nath ==> https://github.com/MayanNath
+# Built by Mayan Nath ==> https://github.com/mayannath/NeoFetch
 # GNU GPL V3
 
 # Need the following pre-requisites to run this without any friction
